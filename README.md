@@ -35,7 +35,7 @@ Ket: Aktiv 24 jam
 * [`Dana `](083837283490) Mr.J
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Youtube `](Mr J)
 * [`Instagram `](https://instagram.com/_mr.jbot)
