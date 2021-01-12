@@ -2,7 +2,7 @@
 * Om mau ngapain om, jangan om...
 * Hayo mau ngapainn
 * Jangan diganti kecuali yg gua bolehin!!!
-* By Fadhil Graphy
+* By Mr.J
 * TQTO ada di paling bawah!!!
 * cari report sama request ganti nomor lu!!!
 */
@@ -33,11 +33,11 @@ const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const adminNumber = JSON.parse(fs.readFileSync('./src/admin.json'))
 const anime = JSON.parse(fs.readFileSync('./src/anime.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
-const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN ASU!?
-            + 'VERSION:3.0\n' // SANA BUAT SENDIRI ENAK BENER LU!!!
-            + 'FN:Mas Lent Creator\n' // NAMA OWNER BOT
-            + 'ORG:Creator MASLENT;\n' // KASIH CREDITS GUA Bang LENT JANCOK!!!
-            + 'TEL;type=CELL;type=VOICE;waid=628165466368:+62 816-5466-368\n' // GANTI NOMOR LU
+const vcard = 'BEGIN:VCARD\n' // Mr.J
+            + 'VERSION:3.0\n' // 3.0
+            + 'FN:Mas Lent Creator\n' // Mr.J
+            + 'ORG:Creator MASLENT;\n' // Credit By Mr.J
+            + 'TEL;type=CELL;type=VOICE;waid=6283837283490\n' // 
             + 'END:VCARD'
 prefix = '/'
 blocked = []
@@ -149,9 +149,9 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["628165466368@s.whatsapp.net"] // GANTI NOMOR LU
-			const adminbotnumber = ["628165466368@s.whatsapp.net"] // GANTI NOMOR LU
-			const frendsowner = ["628165466368@s.whatsapp.net"] // GAUSAH DIGANTI!!!
+			const ownerNumber = ["6283837283490@s.whatsapp.net"] // 
+			const adminbotnumber = ["628383728349.@s.whatsapp.net"] // 
+			const frendsowner = ["6283837283490@s.whatsapp.net"] // 
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -2023,14 +2023,13 @@ async function starts() {
 starts()
 
 /*
-* THANGKS TO :
-* XPTN
-* Maslent
-* Alfa
-* ArugaZ
-* DuingZ
-* Yukiniko
-* MahankBarbar
-* MyBot Team
+* THANKS TO :
+* Indonesian Cyber Team(PUB)
+* SundaXploit
+* Cirebon - Xploit [PUB{
+* [ChinaCT PUB]
+* Cyber Anak Bangsa(PUB)
+* Kings Black Hat publik
+* Mr.J
 * Dll
 */
