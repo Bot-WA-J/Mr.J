@@ -21,8 +21,8 @@ Script ini di modifikasi sama saya sendiri Mr.J.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/ICHI-LENT/ichi
-> cd ichi-lent/ichi
+> git clone https://github.com/Bot-WA-J/Mr.J
+> cd Mr.J
 > bash install.sh
 > node index js
 > Tinggal scan kode qr yeee...done
